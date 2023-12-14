@@ -1,4 +1,4 @@
-= { New Group Name } { New Group Type } Charter
+= Performance Events Task Group Charter
 
 == Introduction
 
